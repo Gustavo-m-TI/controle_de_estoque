@@ -14,7 +14,7 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 <!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
      Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
 
-_Escreva aqui a apresentação do projeto._
+O sistema de controle de estoque foi desenvolvido para auxiliar o dono de um mercado no gerenciamento dos produtos. Ele permite cadastrar, consultar, alterar e excluir produtos, além de registrar entradas e saídas de mercadorias. O sistema também permite acompanhar as quantidades disponíveis e gerar relatórios do estoque. Dessa forma, o controle dos produtos fica mais organizado, rápido e seguro.
 
 ## Documento do projeto
 
